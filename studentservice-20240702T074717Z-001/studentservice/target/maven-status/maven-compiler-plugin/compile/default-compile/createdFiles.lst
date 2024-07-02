@@ -1,0 +1,9 @@
+com/example/studentservice/service/StudentService.class
+com/example/studentservice/model/ClassData.class
+com/example/studentservice/repository/ClassDataRepository.class
+com/example/studentservice/repository/StudentRepository.class
+com/example/studentservice/model/Student.class
+com/example/studentservice/StudentserviceApplication.class
+com/example/studentservice/controller/StudentController.class
+com/example/studentservice/repository/SectionRepository.class
+com/example/studentservice/model/Section.class

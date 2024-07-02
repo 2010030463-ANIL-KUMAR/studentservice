@@ -1,0 +1,9 @@
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/model/ClassData.java
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/model/Section.java
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/StudentserviceApplication.java
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/controller/StudentController.java
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/service/StudentService.java
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/repository/StudentRepository.java
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/repository/ClassDataRepository.java
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/repository/SectionRepository.java
+/home/next/Downloads/studentservice/src/main/java/com/example/studentservice/model/Student.java

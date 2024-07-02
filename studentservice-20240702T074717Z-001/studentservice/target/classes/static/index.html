@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Management System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Student Management System</h1>
+        <table id="studentTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Admission No</th>
+                    <th>Class</th>
+                    <th>Section</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Student data rows will be added dynamically here -->
+            </tbody>
+        </table>
+        <div class="form-container">
+            <h2>Add/Edit Student</h2>
+            <form id="studentForm">
+                <input type="hidden" id="studentId">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="admissionNo">Admission No:</label>
+                <input type="text" id="admissionNo" name="admissionNo" required>
+                <label for="classData">Class:</label>
+                <input type="text" id="classData" name="classData" required>
+                <label for="section">Section:</label>
+                <input type="text" id="section" name="section" required>
+                <button type="submit" id="saveBtn">Save</button>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
